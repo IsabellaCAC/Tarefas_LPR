@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\bin\Debug\net9.0\ex_4.exe
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\bin\Debug\net9.0\ex_4.deps.json
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\bin\Debug\net9.0\ex_4.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\bin\Debug\net9.0\ex_4.dll
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\bin\Debug\net9.0\ex_4.pdb
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.dll
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\refint\ex_4.dll
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.pdb
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ex_4.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_2025\aula_5\ex_4\obj\Debug\net9.0\ref\ex_4.dll

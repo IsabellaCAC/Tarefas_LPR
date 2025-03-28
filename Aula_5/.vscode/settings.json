@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "ex2.sln",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
